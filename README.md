@@ -1,2 +1,3 @@
 # 'Hello, world!'
-Lolol
+
+I study in Netology
